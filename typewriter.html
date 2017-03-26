@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+<title>Typewriter</title>
+<!-- Imports -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script> <!--JQuery-->
+<script src="print.js"></script>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.98.1/css/materialize.min.css"> <!-- Materialize -->
+
+<link rel="stylesheet" href="hack.css">
+<link rel="stylesheet" href="main.css">
+<script src="script.js" type="text/javascript"></script>
+</head>
+
+<body class="lightgray-5">
+	<header>
+		<h2 class="center-align">Typewriter</h2>
+		<div class="center-align"><textarea id="charInput" placeholder="Paste your text here"></textarea></div>
+	</header>
+	<div class="center-align"><button class="btn" type="submit" id="charInputSubmit">Convert</button></div>
+	<main>
+		<div>
+			<div class="center-align" id="preview">Preview will be displayed here...</div>
+		</div>
+		<div class="center-align"><button class="btn" type="submit" id="genPDF">Save as PDF</button></div>
+	</main>
+	<p class="right-align">Note: When printing in chrome, make sure to enable background graphics under "More Settings".</p>
+</body>
+<style type="text/css" media="print">
+@page {
+    size: auto;   /* auto is the initial value */
+    margin: 0;  /* this affects the margin in the printer settings */
+}
+</style>
+</html>

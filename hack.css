@@ -1,0 +1,1450 @@
+/* Positions of the characters from the form */
+.char-a1 {
+  background: url("sample-scan.jpg") -209px -197.8px;
+}
+
+.char-a2 {
+  background: url("sample-scan.jpg") -252px -197.8px;
+}
+
+.char-a3 {
+  background: url("sample-scan.jpg") -295px -197.8px;
+}
+
+.char-a4 {
+  background: url("sample-scan.jpg") -338px -197.8px;
+}
+
+.char-a5 {
+  background: url("sample-scan.jpg") -381px -197.8px;
+}
+
+.char-b1 {
+  background: url("sample-scan.jpg") -209px -237.69px;
+}
+
+.char-b2 {
+  background: url("sample-scan.jpg") -252px -237.69px;
+}
+
+.char-b3 {
+  background: url("sample-scan.jpg") -295px -237.69px;
+}
+
+.char-b4 {
+  background: url("sample-scan.jpg") -338px -237.69px;
+}
+
+.char-b5 {
+  background: url("sample-scan.jpg") -381px -237.69px;
+}
+
+.char-c1 {
+  background: url("sample-scan.jpg") -209px -277.58px;
+}
+
+.char-c2 {
+  background: url("sample-scan.jpg") -252px -277.58px;
+}
+
+.char-c3 {
+  background: url("sample-scan.jpg") -295px -277.58px;
+}
+
+.char-c4 {
+  background: url("sample-scan.jpg") -338px -277.58px;
+}
+
+.char-c5 {
+  background: url("sample-scan.jpg") -381px -277.58px;
+}
+
+.char-d1 {
+  background: url("sample-scan.jpg") -209px -317.47px;
+}
+
+.char-d2 {
+  background: url("sample-scan.jpg") -252px -317.47px;
+}
+
+.char-d3 {
+  background: url("sample-scan.jpg") -295px -317.47px;
+}
+
+.char-d4 {
+  background: url("sample-scan.jpg") -338px -317.47px;
+}
+
+.char-d5 {
+  background: url("sample-scan.jpg") -381px -317.47px;
+}
+
+.char-e1 {
+  background: url("sample-scan.jpg") -209px -357.36px;
+}
+
+.char-e2 {
+  background: url("sample-scan.jpg") -252px -357.36px;
+}
+
+.char-e3 {
+  background: url("sample-scan.jpg") -295px -357.36px;
+}
+
+.char-e4 {
+  background: url("sample-scan.jpg") -338px -357.36px;
+}
+
+.char-e5 {
+  background: url("sample-scan.jpg") -381px -357.36px;
+}
+
+.char-f1 {
+  background: url("sample-scan.jpg") -209px -397.25px;
+}
+
+.char-f2 {
+  background: url("sample-scan.jpg") -252px -397.25px;
+}
+
+.char-f3 {
+  background: url("sample-scan.jpg") -295px -397.25px;
+}
+
+.char-f4 {
+  background: url("sample-scan.jpg") -338px -397.25px;
+}
+
+.char-f5 {
+  background: url("sample-scan.jpg") -381px -397.25px;
+}
+
+.char-g1 {
+  background: url("sample-scan.jpg") -209px -437.14px;
+}
+
+.char-g2 {
+  background: url("sample-scan.jpg") -252px -437.14px;
+}
+
+.char-g3 {
+  background: url("sample-scan.jpg") -295px -437.14px;
+}
+
+.char-g4 {
+  background: url("sample-scan.jpg") -338px -437.14px;
+}
+
+.char-g5 {
+  background: url("sample-scan.jpg") -381px -437.14px;
+}
+
+.char-h1 {
+  background: url("sample-scan.jpg") -209px -477.03px;
+}
+
+.char-h2 {
+  background: url("sample-scan.jpg") -252px -477.03px;
+}
+
+.char-h3 {
+  background: url("sample-scan.jpg") -295px -477.03px;
+}
+
+.char-h4 {
+  background: url("sample-scan.jpg") -338px -477.03px;
+}
+
+.char-h5 {
+  background: url("sample-scan.jpg") -381px -477.03px;
+}
+
+.char-i1 {
+  background: url("sample-scan.jpg") -209px -516.92px;
+}
+
+.char-i2 {
+  background: url("sample-scan.jpg") -252px -516.92px;
+}
+
+.char-i3 {
+  background: url("sample-scan.jpg") -295px -516.92px;
+}
+
+.char-i4 {
+  background: url("sample-scan.jpg") -338px -516.92px;
+}
+
+.char-i5 {
+  background: url("sample-scan.jpg") -381px -516.92px;
+}
+
+.char-j1 {
+  background: url("sample-scan.jpg") -209px -556.81px;
+}
+
+.char-j2 {
+  background: url("sample-scan.jpg") -252px -556.81px;
+}
+
+.char-j3 {
+  background: url("sample-scan.jpg") -295px -556.81px;
+}
+
+.char-j4 {
+  background: url("sample-scan.jpg") -338px -556.81px;
+}
+
+.char-j5 {
+  background: url("sample-scan.jpg") -381px -556.81px;
+}
+
+.char-k1 {
+  background: url("sample-scan.jpg") -209px -596.7px;
+}
+
+.char-k2 {
+  background: url("sample-scan.jpg") -252px -596.7px;
+}
+
+.char-k3 {
+  background: url("sample-scan.jpg") -295px -596.7px;
+}
+
+.char-k4 {
+  background: url("sample-scan.jpg") -338px -596.7px;
+}
+
+.char-k5 {
+  background: url("sample-scan.jpg") -381px -596.7px;
+}
+
+.char-l1 {
+  background: url("sample-scan.jpg") -209px -636.59px;
+}
+
+.char-l2 {
+  background: url("sample-scan.jpg") -252px -636.59px;
+}
+
+.char-l3 {
+  background: url("sample-scan.jpg") -295px -636.59px;
+}
+
+.char-l4 {
+  background: url("sample-scan.jpg") -338px -636.59px;
+}
+
+.char-l5 {
+  background: url("sample-scan.jpg") -381px -636.59px;
+}
+
+.char-m1 {
+  background: url("sample-scan.jpg") -209px -676.48px;
+}
+
+.char-m2 {
+  background: url("sample-scan.jpg") -252px -676.48px;
+}
+
+.char-m3 {
+  background: url("sample-scan.jpg") -295px -676.48px;
+}
+
+.char-m4 {
+  background: url("sample-scan.jpg") -338px -676.48px;
+}
+
+.char-m5 {
+  background: url("sample-scan.jpg") -381px -676.48px;
+}
+
+.char-n1 {
+  background: url("sample-scan.jpg") -209px -716.37px;
+}
+
+.char-n2 {
+  background: url("sample-scan.jpg") -252px -716.37px;
+}
+
+.char-n3 {
+  background: url("sample-scan.jpg") -295px -716.37px;
+}
+
+.char-n4 {
+  background: url("sample-scan.jpg") -338px -716.37px;
+}
+
+.char-n5 {
+  background: url("sample-scan.jpg") -381px -716.37px;
+}
+
+.char-o1 {
+  background: url("sample-scan.jpg") -209px -756.26px;
+}
+
+.char-o2 {
+  background: url("sample-scan.jpg") -252px -756.26px;
+}
+
+.char-o3 {
+  background: url("sample-scan.jpg") -295px -756.26px;
+}
+
+.char-o4 {
+  background: url("sample-scan.jpg") -338px -756.26px;
+}
+
+.char-o5 {
+  background: url("sample-scan.jpg") -381px -756.26px;
+}
+
+.char-p1 {
+  background: url("sample-scan.jpg") -209px -796.15px;
+}
+
+.char-p2 {
+  background: url("sample-scan.jpg") -252px -796.15px;
+}
+
+.char-p3 {
+  background: url("sample-scan.jpg") -295px -796.15px;
+}
+
+.char-p4 {
+  background: url("sample-scan.jpg") -338px -796.15px;
+}
+
+.char-p5 {
+  background: url("sample-scan.jpg") -381px -796.15px;
+}
+
+.char-q1 {
+  background: url("sample-scan.jpg") -209px -836.04px;
+}
+
+.char-q2 {
+  background: url("sample-scan.jpg") -252px -836.04px;
+}
+
+.char-q3 {
+  background: url("sample-scan.jpg") -295px -836.04px;
+}
+
+.char-q4 {
+  background: url("sample-scan.jpg") -338px -836.04px;
+}
+
+.char-q5 {
+  background: url("sample-scan.jpg") -381px -836.04px;
+}
+
+.char-r1 {
+  background: url("sample-scan.jpg") -209px -875.93px;
+}
+
+.char-r2 {
+  background: url("sample-scan.jpg") -252px -875.93px;
+}
+
+.char-r3 {
+  background: url("sample-scan.jpg") -295px -875.93px;
+}
+
+.char-r4 {
+  background: url("sample-scan.jpg") -338px -875.93px;
+}
+
+.char-r5 {
+  background: url("sample-scan.jpg") -381px -875.93px;
+}
+
+.char-s1 {
+  background: url("sample-scan.jpg") -209px -915.82px;
+}
+
+.char-s2 {
+  background: url("sample-scan.jpg") -252px -915.82px;
+}
+
+.char-s3 {
+  background: url("sample-scan.jpg") -295px -915.82px;
+}
+
+.char-s4 {
+  background: url("sample-scan.jpg") -338px -915.82px;
+}
+
+.char-s5 {
+  background: url("sample-scan.jpg") -381px -915.82px;
+}
+
+.char-t1 {
+  background: url("sample-scan.jpg") -209px -955.71px;
+}
+
+.char-t2 {
+  background: url("sample-scan.jpg") -252px -955.71px;
+}
+
+.char-t3 {
+  background: url("sample-scan.jpg") -295px -955.71px;
+}
+
+.char-t4 {
+  background: url("sample-scan.jpg") -338px -955.71px;
+}
+
+.char-t5 {
+  background: url("sample-scan.jpg") -381px -955.71px;
+}
+
+.char-u1 {
+  background: url("sample-scan.jpg") -209px -995.6px;
+}
+
+.char-u2 {
+  background: url("sample-scan.jpg") -252px -995.6px;
+}
+
+.char-u3 {
+  background: url("sample-scan.jpg") -295px -995.6px;
+}
+
+.char-u4 {
+  background: url("sample-scan.jpg") -338px -995.6px;
+}
+
+.char-u5 {
+  background: url("sample-scan.jpg") -381px -995.6px;
+}
+
+.char-v1 {
+  background: url("sample-scan.jpg") -209px -1035.49px;
+}
+
+.char-v2 {
+  background: url("sample-scan.jpg") -252px -1035.49px;
+}
+
+.char-v3 {
+  background: url("sample-scan.jpg") -295px -1035.49px;
+}
+
+.char-v4 {
+  background: url("sample-scan.jpg") -338px -1035.49px;
+}
+
+.char-v5 {
+  background: url("sample-scan.jpg") -381px -1035.49px;
+}
+
+.char-w1 {
+  background: url("sample-scan.jpg") -209px -1075.38px;
+}
+
+.char-w2 {
+  background: url("sample-scan.jpg") -252px -1075.38px;
+}
+
+.char-w3 {
+  background: url("sample-scan.jpg") -295px -1075.38px;
+}
+
+.char-w4 {
+  background: url("sample-scan.jpg") -338px -1075.38px;
+}
+
+.char-w5 {
+  background: url("sample-scan.jpg") -381px -1075.38px;
+}
+
+.char-x1 {
+  background: url("sample-scan.jpg") -209px -1115.27px;
+}
+
+.char-x2 {
+  background: url("sample-scan.jpg") -252px -1115.27px;
+}
+
+.char-x3 {
+  background: url("sample-scan.jpg") -295px -1115.27px;
+}
+
+.char-x4 {
+  background: url("sample-scan.jpg") -338px -1115.27px;
+}
+
+.char-x5 {
+  background: url("sample-scan.jpg") -381px -1115.27px;
+}
+
+.char-y1 {
+  background: url("sample-scan.jpg") -209px -1155.16px;
+}
+
+.char-y2 {
+  background: url("sample-scan.jpg") -252px -1155.16px;
+}
+
+.char-y3 {
+  background: url("sample-scan.jpg") -295px -1155.16px;
+}
+
+.char-y4 {
+  background: url("sample-scan.jpg") -338px -1155.16px;
+}
+
+.char-y5 {
+  background: url("sample-scan.jpg") -381px -1155.16px;
+}
+
+.char-z1 {
+  background: url("sample-scan.jpg") -209px -1195.05px;
+}
+
+.char-z2 {
+  background: url("sample-scan.jpg") -252px -1195.05px;
+}
+
+.char-z3 {
+  background: url("sample-scan.jpg") -295px -1195.05px;
+}
+
+.char-z4 {
+  background: url("sample-scan.jpg") -338px -1195.05px;
+}
+
+.char-z5 {
+  background: url("sample-scan.jpg") -381px -1195.05px;
+}
+
+.char-01 {
+  background: url("sample-scan.jpg") -209px -1234.94px;
+}
+
+.char-02 {
+  background: url("sample-scan.jpg") -252px -1234.94px;
+}
+
+.char-03 {
+  background: url("sample-scan.jpg") -295px -1234.94px;
+}
+
+.char-04 {
+  background: url("sample-scan.jpg") -338px -1234.94px;
+}
+
+.char-05 {
+  background: url("sample-scan.jpg") -381px -1234.94px;
+}
+
+.char-11 {
+  background: url("sample-scan.jpg") -209px -1274.83px;
+}
+
+.char-12 {
+  background: url("sample-scan.jpg") -252px -1274.83px;
+}
+
+.char-13 {
+  background: url("sample-scan.jpg") -295px -1274.83px;
+}
+
+.char-14 {
+  background: url("sample-scan.jpg") -338px -1274.83px;
+}
+
+.char-15 {
+  background: url("sample-scan.jpg") -381px -1274.83px;
+}
+
+.char-21 {
+  background: url("sample-scan.jpg") -209px -1314.72px;
+}
+
+.char-22 {
+  background: url("sample-scan.jpg") -252px -1314.72px;
+}
+
+.char-23 {
+  background: url("sample-scan.jpg") -295px -1314.72px;
+}
+
+.char-24 {
+  background: url("sample-scan.jpg") -338px -1314.72px;
+}
+
+.char-25 {
+  background: url("sample-scan.jpg") -381px -1314.72px;
+}
+
+.char-31 {
+  background: url("sample-scan.jpg") -209px -1354.61px;
+}
+
+.char-32 {
+  background: url("sample-scan.jpg") -252px -1354.61px;
+}
+
+.char-33 {
+  background: url("sample-scan.jpg") -295px -1354.61px;
+}
+
+.char-34 {
+  background: url("sample-scan.jpg") -338px -1354.61px;
+}
+
+.char-35 {
+  background: url("sample-scan.jpg") -381px -1354.61px;
+}
+
+.char-41 {
+  background: url("sample-scan.jpg") -209px -1394.5px;
+}
+
+.char-42 {
+  background: url("sample-scan.jpg") -252px -1394.5px;
+}
+
+.char-43 {
+  background: url("sample-scan.jpg") -295px -1394.5px;
+}
+
+.char-44 {
+  background: url("sample-scan.jpg") -338px -1394.5px;
+}
+
+.char-45 {
+  background: url("sample-scan.jpg") -381px -1394.5px;
+}
+
+.char-51 {
+  background: url("sample-scan.jpg") -209px -1434.39px;
+}
+
+.char-52 {
+  background: url("sample-scan.jpg") -252px -1434.39px;
+}
+
+.char-53 {
+  background: url("sample-scan.jpg") -295px -1434.39px;
+}
+
+.char-54 {
+  background: url("sample-scan.jpg") -338px -1434.39px;
+}
+
+.char-55 {
+  background: url("sample-scan.jpg") -381px -1434.39px;
+}
+
+.char-61 {
+  background: url("sample-scan.jpg") -209px -1474.28px;
+}
+
+.char-62 {
+  background: url("sample-scan.jpg") -252px -1474.28px;
+}
+
+.char-63 {
+  background: url("sample-scan.jpg") -295px -1474.28px;
+}
+
+.char-64 {
+  background: url("sample-scan.jpg") -338px -1474.28px;
+}
+
+.char-65 {
+  background: url("sample-scan.jpg") -381px -1474.28px;
+}
+
+.char-71 {
+  background: url("sample-scan.jpg") -209px -1514.17px;
+}
+
+.char-72 {
+  background: url("sample-scan.jpg") -252px -1514.17px;
+}
+
+.char-73 {
+  background: url("sample-scan.jpg") -295px -1514.17px;
+}
+
+.char-74 {
+  background: url("sample-scan.jpg") -338px -1514.17px;
+}
+
+.char-75 {
+  background: url("sample-scan.jpg") -381px -1514.17px;
+}
+
+.char-81 {
+  background: url("sample-scan.jpg") -209px -1554.06px;
+}
+
+.char-82 {
+  background: url("sample-scan.jpg") -252px -1554.06px;
+}
+
+.char-83 {
+  background: url("sample-scan.jpg") -295px -1554.06px;
+}
+
+.char-84 {
+  background: url("sample-scan.jpg") -338px -1554.06px;
+}
+
+.char-85 {
+  background: url("sample-scan.jpg") -381px -1554.06px;
+}
+
+.char-91 {
+  background: url("sample-scan.jpg") -209px -1593.95px;
+}
+
+.char-92 {
+  background: url("sample-scan.jpg") -252px -1593.95px;
+}
+
+.char-93 {
+  background: url("sample-scan.jpg") -295px -1593.95px;
+}
+
+.char-94 {
+  background: url("sample-scan.jpg") -338px -1593.95px;
+}
+
+.char-95 {
+  background: url("sample-scan.jpg") -381px -1593.95px;
+}
+
+.char-A1 {
+  background: url("sample-scan.jpg") -591.3px -197.8px;
+}
+
+.char-A2 {
+  background: url("sample-scan.jpg") -634.3px -197.8px;
+}
+
+.char-A3 {
+  background: url("sample-scan.jpg") -677.3px -197.8px;
+}
+
+.char-A4 {
+  background: url("sample-scan.jpg") -720.3px -197.8px;
+}
+
+.char-A5 {
+  background: url("sample-scan.jpg") -763.3px -197.8px;
+}
+
+.char-B1 {
+  background: url("sample-scan.jpg") -591.3px -237.69px;
+}
+
+.char-B2 {
+  background: url("sample-scan.jpg") -634.3px -237.69px;
+}
+
+.char-B3 {
+  background: url("sample-scan.jpg") -677.3px -237.69px;
+}
+
+.char-B4 {
+  background: url("sample-scan.jpg") -720.3px -237.69px;
+}
+
+.char-B5 {
+  background: url("sample-scan.jpg") -763.3px -237.69px;
+}
+
+.char-C1 {
+  background: url("sample-scan.jpg") -591.3px -277.58px;
+}
+
+.char-C2 {
+  background: url("sample-scan.jpg") -634.3px -277.58px;
+}
+
+.char-C3 {
+  background: url("sample-scan.jpg") -677.3px -277.58px;
+}
+
+.char-C4 {
+  background: url("sample-scan.jpg") -720.3px -277.58px;
+}
+
+.char-C5 {
+  background: url("sample-scan.jpg") -763.3px -277.58px;
+}
+
+.char-D1 {
+  background: url("sample-scan.jpg") -591.3px -317.47px;
+}
+
+.char-D2 {
+  background: url("sample-scan.jpg") -634.3px -317.47px;
+}
+
+.char-D3 {
+  background: url("sample-scan.jpg") -677.3px -317.47px;
+}
+
+.char-D4 {
+  background: url("sample-scan.jpg") -720.3px -317.47px;
+}
+
+.char-D5 {
+  background: url("sample-scan.jpg") -763.3px -317.47px;
+}
+
+.char-E1 {
+  background: url("sample-scan.jpg") -591.3px -357.36px;
+}
+
+.char-E2 {
+  background: url("sample-scan.jpg") -634.3px -357.36px;
+}
+
+.char-E3 {
+  background: url("sample-scan.jpg") -677.3px -357.36px;
+}
+
+.char-E4 {
+  background: url("sample-scan.jpg") -720.3px -357.36px;
+}
+
+.char-E5 {
+  background: url("sample-scan.jpg") -763.3px -357.36px;
+}
+
+.char-F1 {
+  background: url("sample-scan.jpg") -591.3px -397.25px;
+}
+
+.char-F2 {
+  background: url("sample-scan.jpg") -634.3px -397.25px;
+}
+
+.char-F3 {
+  background: url("sample-scan.jpg") -677.3px -397.25px;
+}
+
+.char-F4 {
+  background: url("sample-scan.jpg") -720.3px -397.25px;
+}
+
+.char-F5 {
+  background: url("sample-scan.jpg") -763.3px -397.25px;
+}
+
+.char-G1 {
+  background: url("sample-scan.jpg") -591.3px -437.14px;
+}
+
+.char-G2 {
+  background: url("sample-scan.jpg") -634.3px -437.14px;
+}
+
+.char-G3 {
+  background: url("sample-scan.jpg") -677.3px -437.14px;
+}
+
+.char-G4 {
+  background: url("sample-scan.jpg") -720.3px -437.14px;
+}
+
+.char-G5 {
+  background: url("sample-scan.jpg") -763.3px -437.14px;
+}
+
+.char-H1 {
+  background: url("sample-scan.jpg") -591.3px -477.03px;
+}
+
+.char-H2 {
+  background: url("sample-scan.jpg") -634.3px -477.03px;
+}
+
+.char-H3 {
+  background: url("sample-scan.jpg") -677.3px -477.03px;
+}
+
+.char-H4 {
+  background: url("sample-scan.jpg") -720.3px -477.03px;
+}
+
+.char-H5 {
+  background: url("sample-scan.jpg") -763.3px -477.03px;
+}
+
+.char-I1 {
+  background: url("sample-scan.jpg") -591.3px -516.92px;
+}
+
+.char-I2 {
+  background: url("sample-scan.jpg") -634.3px -516.92px;
+}
+
+.char-I3 {
+  background: url("sample-scan.jpg") -677.3px -516.92px;
+}
+
+.char-I4 {
+  background: url("sample-scan.jpg") -720.3px -516.92px;
+}
+
+.char-I5 {
+  background: url("sample-scan.jpg") -763.3px -516.92px;
+}
+
+.char-J1 {
+  background: url("sample-scan.jpg") -591.3px -556.81px;
+}
+
+.char-J2 {
+  background: url("sample-scan.jpg") -634.3px -556.81px;
+}
+
+.char-J3 {
+  background: url("sample-scan.jpg") -677.3px -556.81px;
+}
+
+.char-J4 {
+  background: url("sample-scan.jpg") -720.3px -556.81px;
+}
+
+.char-J5 {
+  background: url("sample-scan.jpg") -763.3px -556.81px;
+}
+
+.char-K1 {
+  background: url("sample-scan.jpg") -591.3px -596.7px;
+}
+
+.char-K2 {
+  background: url("sample-scan.jpg") -634.3px -596.7px;
+}
+
+.char-K3 {
+  background: url("sample-scan.jpg") -677.3px -596.7px;
+}
+
+.char-K4 {
+  background: url("sample-scan.jpg") -720.3px -596.7px;
+}
+
+.char-K5 {
+  background: url("sample-scan.jpg") -763.3px -596.7px;
+}
+
+.char-L1 {
+  background: url("sample-scan.jpg") -591.3px -636.59px;
+}
+
+.char-L2 {
+  background: url("sample-scan.jpg") -634.3px -636.59px;
+}
+
+.char-L3 {
+  background: url("sample-scan.jpg") -677.3px -636.59px;
+}
+
+.char-L4 {
+  background: url("sample-scan.jpg") -720.3px -636.59px;
+}
+
+.char-L5 {
+  background: url("sample-scan.jpg") -763.3px -636.59px;
+}
+
+.char-M1 {
+  background: url("sample-scan.jpg") -591.3px -676.48px;
+}
+
+.char-M2 {
+  background: url("sample-scan.jpg") -634.3px -676.48px;
+}
+
+.char-M3 {
+  background: url("sample-scan.jpg") -677.3px -676.48px;
+}
+
+.char-M4 {
+  background: url("sample-scan.jpg") -720.3px -676.48px;
+}
+
+.char-M5 {
+  background: url("sample-scan.jpg") -763.3px -676.48px;
+}
+
+.char-N1 {
+  background: url("sample-scan.jpg") -591.3px -716.37px;
+}
+
+.char-N2 {
+  background: url("sample-scan.jpg") -634.3px -716.37px;
+}
+
+.char-N3 {
+  background: url("sample-scan.jpg") -677.3px -716.37px;
+}
+
+.char-N4 {
+  background: url("sample-scan.jpg") -720.3px -716.37px;
+}
+
+.char-N5 {
+  background: url("sample-scan.jpg") -763.3px -716.37px;
+}
+
+.char-O1 {
+  background: url("sample-scan.jpg") -591.3px -756.26px;
+}
+
+.char-O2 {
+  background: url("sample-scan.jpg") -634.3px -756.26px;
+}
+
+.char-O3 {
+  background: url("sample-scan.jpg") -677.3px -756.26px;
+}
+
+.char-O4 {
+  background: url("sample-scan.jpg") -720.3px -756.26px;
+}
+
+.char-O5 {
+  background: url("sample-scan.jpg") -763.3px -756.26px;
+}
+
+.char-P1 {
+  background: url("sample-scan.jpg") -591.3px -796.15px;
+}
+
+.char-P2 {
+  background: url("sample-scan.jpg") -634.3px -796.15px;
+}
+
+.char-P3 {
+  background: url("sample-scan.jpg") -677.3px -796.15px;
+}
+
+.char-P4 {
+  background: url("sample-scan.jpg") -720.3px -796.15px;
+}
+
+.char-P5 {
+  background: url("sample-scan.jpg") -763.3px -796.15px;
+}
+
+.char-Q1 {
+  background: url("sample-scan.jpg") -591.3px -836.04px;
+}
+
+.char-Q2 {
+  background: url("sample-scan.jpg") -634.3px -836.04px;
+}
+
+.char-Q3 {
+  background: url("sample-scan.jpg") -677.3px -836.04px;
+}
+
+.char-Q4 {
+  background: url("sample-scan.jpg") -720.3px -836.04px;
+}
+
+.char-Q5 {
+  background: url("sample-scan.jpg") -763.3px -836.04px;
+}
+
+.char-R1 {
+  background: url("sample-scan.jpg") -591.3px -873.13px;
+}
+
+.char-R2 {
+  background: url("sample-scan.jpg") -634.3px -873.13px;
+}
+
+.char-R3 {
+  background: url("sample-scan.jpg") -677.3px -873.13px;
+}
+
+.char-R4 {
+  background: url("sample-scan.jpg") -720.3px -873.13px;
+}
+
+.char-R5 {
+  background: url("sample-scan.jpg") -763.3px -873.13px;
+}
+
+.char-S1 {
+  background: url("sample-scan.jpg") -591.3px -913.02px;
+}
+
+.char-S2 {
+  background: url("sample-scan.jpg") -634.3px -913.02px;
+}
+
+.char-S3 {
+  background: url("sample-scan.jpg") -677.3px -913.02px;
+}
+
+.char-S4 {
+  background: url("sample-scan.jpg") -720.3px -913.02px;
+}
+
+.char-S5 {
+  background: url("sample-scan.jpg") -763.3px -913.02px;
+}
+
+.char-T1 {
+  background: url("sample-scan.jpg") -591.3px -952.91px;
+}
+
+.char-T2 {
+  background: url("sample-scan.jpg") -634.3px -952.91px;
+}
+
+.char-T3 {
+  background: url("sample-scan.jpg") -677.3px -952.91px;
+}
+
+.char-T4 {
+  background: url("sample-scan.jpg") -720.3px -952.91px;
+}
+
+.char-T5 {
+  background: url("sample-scan.jpg") -763.3px -952.91px;
+}
+
+.char-U1 {
+  background: url("sample-scan.jpg") -591.3px -992.8px;
+}
+
+.char-U2 {
+  background: url("sample-scan.jpg") -634.3px -992.8px;
+}
+
+.char-U3 {
+  background: url("sample-scan.jpg") -677.3px -992.8px;
+}
+
+.char-U4 {
+  background: url("sample-scan.jpg") -720.3px -992.8px;
+}
+
+.char-U5 {
+  background: url("sample-scan.jpg") -763.3px -992.8px;
+}
+
+.char-V1 {
+  background: url("sample-scan.jpg") -591.3px -1032.69px;
+}
+
+.char-V2 {
+  background: url("sample-scan.jpg") -634.3px -1032.69px;
+}
+
+.char-V3 {
+  background: url("sample-scan.jpg") -677.3px -1032.69px;
+}
+
+.char-V4 {
+  background: url("sample-scan.jpg") -720.3px -1032.69px;
+}
+
+.char-V5 {
+  background: url("sample-scan.jpg") -763.3px -1032.69px;
+}
+
+.char-W1 {
+  background: url("sample-scan.jpg") -591.3px -1072.58px;
+}
+
+.char-W2 {
+  background: url("sample-scan.jpg") -634.3px -1072.58px;
+}
+
+.char-W3 {
+  background: url("sample-scan.jpg") -677.3px -1072.58px;
+}
+
+.char-W4 {
+  background: url("sample-scan.jpg") -720.3px -1072.58px;
+}
+
+.char-W5 {
+  background: url("sample-scan.jpg") -763.3px -1072.58px;
+}
+
+.char-X1 {
+  background: url("sample-scan.jpg") -591.3px -1112.47px;
+}
+
+.char-X2 {
+  background: url("sample-scan.jpg") -634.3px -1112.47px;
+}
+
+.char-X3 {
+  background: url("sample-scan.jpg") -677.3px -1112.47px;
+}
+
+.char-X4 {
+  background: url("sample-scan.jpg") -720.3px -1112.47px;
+}
+
+.char-X5 {
+  background: url("sample-scan.jpg") -763.3px -1112.47px;
+}
+
+.char-Y1 {
+  background: url("sample-scan.jpg") -591.3px -1152.36px;
+}
+
+.char-Y2 {
+  background: url("sample-scan.jpg") -634.3px -1152.36px;
+}
+
+.char-Y3 {
+  background: url("sample-scan.jpg") -677.3px -1152.36px;
+}
+
+.char-Y4 {
+  background: url("sample-scan.jpg") -720.3px -1152.36px;
+}
+
+.char-Y5 {
+  background: url("sample-scan.jpg") -763.3px -1152.36px;
+}
+
+.char-Z1 {
+  background: url("sample-scan.jpg") -591.3px -1192.25px;
+}
+
+.char-Z2 {
+  background: url("sample-scan.jpg") -634.3px -1192.25px;
+}
+
+.char-Z3 {
+  background: url("sample-scan.jpg") -677.3px -1192.25px;
+}
+
+.char-Z4 {
+  background: url("sample-scan.jpg") -720.3px -1192.25px;
+}
+
+.char-Z5 {
+  background: url("sample-scan.jpg") -763.3px -1192.25px;
+}
+
+.char-period1 {
+  background: url("sample-scan.jpg") -594.9px -1231.14px;
+}
+
+.char-period2 {
+  background: url("sample-scan.jpg") -637.9px -1231.14px;
+}
+
+.char-period3 {
+  background: url("sample-scan.jpg") -680.9px -1231.14px;
+}
+
+.char-period4 {
+  background: url("sample-scan.jpg") -723.9px -1231.14px;
+}
+
+.char-period5 {
+  background: url("sample-scan.jpg") -766.9px -1231.14px;
+}
+
+.char-comma1 {
+  background: url("sample-scan.jpg") -594.9px -1271.03px;
+}
+
+.char-comma2 {
+  background: url("sample-scan.jpg") -637.9px -1271.03px;
+}
+
+.char-comma3 {
+  background: url("sample-scan.jpg") -680.9px -1271.03px;
+}
+
+.char-comma4 {
+  background: url("sample-scan.jpg") -723.9px -1271.03px;
+}
+
+.char-comma5 {
+  background: url("sample-scan.jpg") -766.9px -1271.03px;
+}
+
+.char-colon1 {
+  background: url("sample-scan.jpg") -594.9px -1310.92px;
+}
+
+.char-colon2 {
+  background: url("sample-scan.jpg") -637.9px -1310.92px;
+}
+
+.char-colon3 {
+  background: url("sample-scan.jpg") -680.9px -1310.92px;
+}
+
+.char-colon4 {
+  background: url("sample-scan.jpg") -723.9px -1310.92px;
+}
+
+.char-colon5 {
+  background: url("sample-scan.jpg") -766.9px -1310.92px;
+}
+
+.char-semicolon1 {
+  background: url("sample-scan.jpg") -594.9px -1350.81px;
+}
+
+.char-semicolon2 {
+  background: url("sample-scan.jpg") -637.9px -1350.81px;
+}
+
+.char-semicolon3 {
+  background: url("sample-scan.jpg") -680.9px -1350.81px;
+}
+
+.char-semicolon4 {
+  background: url("sample-scan.jpg") -723.9px -1350.81px;
+}
+
+.char-semicolon5 {
+  background: url("sample-scan.jpg") -766.9px -1350.81px;
+}
+
+.char-leftquote1 {
+  background: url("sample-scan.jpg") -594.9px -1390.7px;
+}
+
+.char-leftquote2 {
+  background: url("sample-scan.jpg") -637.9px -1390.7px;
+}
+
+.char-leftquote3 {
+  background: url("sample-scan.jpg") -680.9px -1390.7px;
+}
+
+.char-leftquote4 {
+  background: url("sample-scan.jpg") -723.9px -1390.7px;
+}
+
+.char-leftquote5 {
+  background: url("sample-scan.jpg") -766.9px -1390.7px;
+}
+
+.char-rightquote1 {
+  background: url("sample-scan.jpg") -594.9px -1430.59px;
+}
+
+.char-rightquote2 {
+  background: url("sample-scan.jpg") -637.9px -1430.59px;
+}
+
+.char-rightquote3 {
+  background: url("sample-scan.jpg") -680.9px -1430.59px;
+}
+
+.char-rightquote4 {
+  background: url("sample-scan.jpg") -723.9px -1430.59px;
+}
+
+.char-rightquote5 {
+  background: url("sample-scan.jpg") -766.9px -1430.59px;
+}
+
+.char-leftquotes1 {
+  background: url("sample-scan.jpg") -594.9px -1470.48px;
+}
+
+.char-leftquotes2 {
+  background: url("sample-scan.jpg") -637.9px -1470.48px;
+}
+
+.char-leftquotes3 {
+  background: url("sample-scan.jpg") -680.9px -1470.48px;
+}
+
+.char-leftquotes4 {
+  background: url("sample-scan.jpg") -723.9px -1470.48px;
+}
+
+.char-leftquotes5 {
+  background: url("sample-scan.jpg") -766.9px -1470.48px;
+}
+
+.char-rightquotes1 {
+  background: url("sample-scan.jpg") -594.9px -1510.37px;
+}
+
+.char-rightquotes2 {
+  background: url("sample-scan.jpg") -637.9px -1510.37px;
+}
+
+.char-rightquotes3 {
+  background: url("sample-scan.jpg") -680.9px -1510.37px;
+}
+
+.char-rightquotes4 {
+  background: url("sample-scan.jpg") -723.9px -1510.37px;
+}
+
+.char-rightquotes5 {
+  background: url("sample-scan.jpg") -766.9px -1510.37px;
+}
+
+.char-exclamation1 {
+  background: url("sample-scan.jpg") -594.9px -1550.26px;
+}
+
+.char-exclamation2 {
+  background: url("sample-scan.jpg") -637.9px -1550.26px;
+}
+
+.char-exclamation3 {
+  background: url("sample-scan.jpg") -680.9px -1550.26px;
+}
+
+.char-exclamation4 {
+  background: url("sample-scan.jpg") -723.9px -1550.26px;
+}
+
+.char-exclamation5 {
+  background: url("sample-scan.jpg") -766.9px -1550.26px;
+}
+
+.char-question1 {
+  background: url("sample-scan.jpg") -594.9px -1590.15px;
+}
+
+.char-question2 {
+  background: url("sample-scan.jpg") -637.9px -1590.15px;
+}
+
+.char-question3 {
+  background: url("sample-scan.jpg") -680.9px -1590.15px;
+}
+
+.char-question4 {
+  background: url("sample-scan.jpg") -723.9px -1590.15px;
+}
+
+.char-question5 {
+  background: url("sample-scan.jpg") -766.9px -1590.15px;
+}
+
+.char {
+  float: left;
+  height: 34.3px;
+  width: 33.8px;
+}
+
+.char-space {
+  background: url("sample-scan.jpg");
+}

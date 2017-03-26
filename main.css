@@ -1,0 +1,18 @@
+/* Custom CSS for UI */
+#charInput {
+	font-size: 22px;
+	height: 360px;
+	overflow: auto;
+	width: 8.5in;
+	padding: 1%;
+	word-wrap: break-word;
+}
+
+#preview {
+	border: 1px solid black;
+	height: auto;
+	overflow: auto;
+	width: 8.5in;
+	padding: 1%;
+	margin: 30px auto;
+}
